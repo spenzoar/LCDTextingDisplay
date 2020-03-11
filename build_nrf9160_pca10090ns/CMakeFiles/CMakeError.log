@@ -1,0 +1,36 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files (x86)/GNU Tools ARM Embedded/8 2019-q3-update/bin/arm-none-eabi-gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+c:/program files (x86)/gnu tools arm embedded/8 2019-q3-update/bin/../lib/gcc/arm-none-eabi/8.3.1/../../../../arm-none-eabi/bin/ld.exe: c:/program files (x86)/gnu tools arm embedded/8 2019-q3-update/bin/../lib/gcc/arm-none-eabi/8.3.1/../../../../arm-none-eabi/lib\libc.a(lib_a-exit.o): in function `exit':
+exit.c:(.text.exit+0x2c): undefined reference to `_exit'
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files (x86)/GNU Tools ARM Embedded/8 2019-q3-update/bin/arm-none-eabi-gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+c:/program files (x86)/gnu tools arm embedded/8 2019-q3-update/bin/../lib/gcc/arm-none-eabi/8.3.1/../../../../arm-none-eabi/bin/ld.exe: c:/program files (x86)/gnu tools arm embedded/8 2019-q3-update/bin/../lib/gcc/arm-none-eabi/8.3.1/../../../../arm-none-eabi/lib\libc.a(lib_a-exit.o): in function `exit':
+exit.c:(.text.exit+0x2c): undefined reference to `_exit'
+collect2.exe: error: ld returned 1 exit status
+
+
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include___isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__mfloat_abi_hard failed with the following output:
+Change Dir: C:/GitHub/NRF91/ncs/nrf/applications/asset_tracker/build_nrf9160_pca10090ns/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ProgramData/chocolatey/bin/ninja.exe cmTC_8608d && [1/2] Building C object CMakeFiles/cmTC_8608d.dir/src.c.obj
+FAILED: CMakeFiles/cmTC_8608d.dir/src.c.obj 
+C:\PROGRA~2\GNUTOO~1\82019-~1\bin\AR19DD~1.EXE   -Dcheck_C__nostartfiles__nostdlib__isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include___isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__mfloat_abi_hard -nostartfiles -nostdlib -isystem "c:/program files (x86)/gnu tools arm embedded/8 2019-q3-update/bin/../lib/gcc/arm-none-eabi/8.3.1/include" -isystem "c:/program files (x86)/gnu tools arm embedded/8 2019-q3-update/bin/../lib/gcc/arm-none-eabi/8.3.1/include-fixed" -Wl,--unresolved-symbols=ignore-in-object-files -Wl,--entry=0 -mfloat-abi=hard -o CMakeFiles/cmTC_8608d.dir/src.c.obj   -c src.c
+cc1.exe: error: -mfloat-abi=hard: selected processor lacks an FPU
+ninja: build stopped: subcommand failed.
+
+
+Source file was:
+int main(void) { return 0; }

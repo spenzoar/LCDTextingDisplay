@@ -1,0 +1,13 @@
+# Target labels
+ mcuboot_subimage
+# Source files and their labels
+C:/GitHub/NRF91/ncs/nrf/applications/asset_tracker/build_nrf9160_pca10090ns/modules/mcuboot/CMakeFiles/mcuboot_subimage
+C:/GitHub/NRF91/ncs/nrf/applications/asset_tracker/build_nrf9160_pca10090ns/modules/mcuboot/CMakeFiles/mcuboot_subimage.rule
+C:/GitHub/NRF91/ncs/nrf/applications/asset_tracker/build_nrf9160_pca10090ns/modules/mcuboot/CMakeFiles/mcuboot_subimage-complete.rule
+C:/GitHub/NRF91/ncs/nrf/applications/asset_tracker/build_nrf9160_pca10090ns/modules/mcuboot/mcuboot_subimage-prefix/src/mcuboot_subimage-stamp/mcuboot_subimage-install.rule
+C:/GitHub/NRF91/ncs/nrf/applications/asset_tracker/build_nrf9160_pca10090ns/modules/mcuboot/mcuboot_subimage-prefix/src/mcuboot_subimage-stamp/mcuboot_subimage-mkdir.rule
+C:/GitHub/NRF91/ncs/nrf/applications/asset_tracker/build_nrf9160_pca10090ns/modules/mcuboot/mcuboot_subimage-prefix/src/mcuboot_subimage-stamp/mcuboot_subimage-download.rule
+C:/GitHub/NRF91/ncs/nrf/applications/asset_tracker/build_nrf9160_pca10090ns/modules/mcuboot/mcuboot_subimage-prefix/src/mcuboot_subimage-stamp/mcuboot_subimage-update.rule
+C:/GitHub/NRF91/ncs/nrf/applications/asset_tracker/build_nrf9160_pca10090ns/modules/mcuboot/mcuboot_subimage-prefix/src/mcuboot_subimage-stamp/mcuboot_subimage-patch.rule
+C:/GitHub/NRF91/ncs/nrf/applications/asset_tracker/build_nrf9160_pca10090ns/modules/mcuboot/mcuboot_subimage-prefix/src/mcuboot_subimage-stamp/mcuboot_subimage-configure.rule
+C:/GitHub/NRF91/ncs/nrf/applications/asset_tracker/build_nrf9160_pca10090ns/modules/mcuboot/mcuboot_subimage-prefix/src/mcuboot_subimage-stamp/mcuboot_subimage-build.rule

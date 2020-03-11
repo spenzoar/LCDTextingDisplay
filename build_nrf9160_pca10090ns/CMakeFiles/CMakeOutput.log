@@ -1,0 +1,304 @@
+The target system is: Generic - 2.1.99 - arm
+The host system is: Windows - 10.0.18362 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/GNU Tools ARM Embedded/8 2019-q3-update/bin/arm-none-eabi-gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.o"
+
+The C compiler identification is GNU, found in "C:/GitHub/NRF91/ncs/nrf/applications/asset_tracker/build_nrf9160_pca10090ns/CMakeFiles/3.16.4/CompilerIdC/CMakeCCompilerId.o"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/Program Files (x86)/GNU Tools ARM Embedded/8 2019-q3-update/bin/arm-none-eabi-gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.o"
+
+The CXX compiler identification is GNU, found in "C:/GitHub/NRF91/ncs/nrf/applications/asset_tracker/build_nrf9160_pca10090ns/CMakeFiles/3.16.4/CompilerIdCXX/CMakeCXXCompilerId.o"
+
+Checking whether the ASM compiler is GNU using "--version" matched "(GNU assembler)|(GCC)|(Free Software Foundation)":
+arm-none-eabi-gcc.exe (GNU Tools for Arm Embedded Processors 8-2019-q3-update) 8.3.1 20190703 (release) [gcc-8-branch revision 273027]
+Copyright (C) 2018 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include___isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/GitHub/NRF91/ncs/nrf/applications/asset_tracker/build_nrf9160_pca10090ns/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ProgramData/chocolatey/bin/ninja.exe cmTC_039e5 && [1/2] Building C object CMakeFiles/cmTC_039e5.dir/src.c.obj
+[2/2] Linking C executable cmTC_039e5
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include___isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__mthumb succeeded with the following output:
+Change Dir: C:/GitHub/NRF91/ncs/nrf/applications/asset_tracker/build_nrf9160_pca10090ns/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ProgramData/chocolatey/bin/ninja.exe cmTC_68e98 && [1/2] Building C object CMakeFiles/cmTC_68e98.dir/src.c.obj
+[2/2] Linking C executable cmTC_68e98
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include___isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__mcpu_cortex_m33 succeeded with the following output:
+Change Dir: C:/GitHub/NRF91/ncs/nrf/applications/asset_tracker/build_nrf9160_pca10090ns/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ProgramData/chocolatey/bin/ninja.exe cmTC_d8d7b && [1/2] Building C object CMakeFiles/cmTC_d8d7b.dir/src.c.obj
+[2/2] Linking C executable cmTC_d8d7b
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include___isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__mfpu_fpv5_sp_d16 succeeded with the following output:
+Change Dir: C:/GitHub/NRF91/ncs/nrf/applications/asset_tracker/build_nrf9160_pca10090ns/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ProgramData/chocolatey/bin/ninja.exe cmTC_6b529 && [1/2] Building C object CMakeFiles/cmTC_6b529.dir/src.c.obj
+[2/2] Linking C executable cmTC_6b529
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include___isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__Wl___gc_sections succeeded with the following output:
+Change Dir: C:/GitHub/NRF91/ncs/nrf/applications/asset_tracker/build_nrf9160_pca10090ns/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ProgramData/chocolatey/bin/ninja.exe cmTC_8abe2 && [1/2] Building C object CMakeFiles/cmTC_8abe2.dir/src.c.obj
+[2/2] Linking C executable cmTC_8abe2
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include___isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__Wl___build_id_none succeeded with the following output:
+Change Dir: C:/GitHub/NRF91/ncs/nrf/applications/asset_tracker/build_nrf9160_pca10090ns/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ProgramData/chocolatey/bin/ninja.exe cmTC_56428 && [1/2] Building C object CMakeFiles/cmTC_56428.dir/src.c.obj
+[2/2] Linking C executable cmTC_56428
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include___isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__Wl___sort_common_descending succeeded with the following output:
+Change Dir: C:/GitHub/NRF91/ncs/nrf/applications/asset_tracker/build_nrf9160_pca10090ns/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ProgramData/chocolatey/bin/ninja.exe cmTC_aa5bb && [1/2] Building C object CMakeFiles/cmTC_aa5bb.dir/src.c.obj
+[2/2] Linking C executable cmTC_aa5bb
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include___isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__Wl___sort_section_alignment succeeded with the following output:
+Change Dir: C:/GitHub/NRF91/ncs/nrf/applications/asset_tracker/build_nrf9160_pca10090ns/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ProgramData/chocolatey/bin/ninja.exe cmTC_d5401 && [1/2] Building C object CMakeFiles/cmTC_d5401.dir/src.c.obj
+[2/2] Linking C executable cmTC_d5401
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include___isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__nostdlib succeeded with the following output:
+Change Dir: C:/GitHub/NRF91/ncs/nrf/applications/asset_tracker/build_nrf9160_pca10090ns/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ProgramData/chocolatey/bin/ninja.exe cmTC_8a794 && [1/2] Building C object CMakeFiles/cmTC_8a794.dir/src.c.obj
+[2/2] Linking C executable cmTC_8a794
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include___isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__static succeeded with the following output:
+Change Dir: C:/GitHub/NRF91/ncs/nrf/applications/asset_tracker/build_nrf9160_pca10090ns/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ProgramData/chocolatey/bin/ninja.exe cmTC_d82f8 && [1/2] Building C object CMakeFiles/cmTC_d82f8.dir/src.c.obj
+[2/2] Linking C executable cmTC_d82f8
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include___isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__no_pie succeeded with the following output:
+Change Dir: C:/GitHub/NRF91/ncs/nrf/applications/asset_tracker/build_nrf9160_pca10090ns/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ProgramData/chocolatey/bin/ninja.exe cmTC_69aea && [1/2] Building C object CMakeFiles/cmTC_69aea.dir/src.c.obj
+[2/2] Linking C executable cmTC_69aea
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include___isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__Wl__X succeeded with the following output:
+Change Dir: C:/GitHub/NRF91/ncs/nrf/applications/asset_tracker/build_nrf9160_pca10090ns/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ProgramData/chocolatey/bin/ninja.exe cmTC_8d8f2 && [1/2] Building C object CMakeFiles/cmTC_8d8f2.dir/src.c.obj
+[2/2] Linking C executable cmTC_8d8f2
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include___isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__Wl__N succeeded with the following output:
+Change Dir: C:/GitHub/NRF91/ncs/nrf/applications/asset_tracker/build_nrf9160_pca10090ns/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ProgramData/chocolatey/bin/ninja.exe cmTC_45cc6 && [1/2] Building C object CMakeFiles/cmTC_45cc6.dir/src.c.obj
+[2/2] Linking C executable cmTC_45cc6
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include___isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__Wl___orphan_handling_warn succeeded with the following output:
+Change Dir: C:/GitHub/NRF91/ncs/nrf/applications/asset_tracker/build_nrf9160_pca10090ns/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ProgramData/chocolatey/bin/ninja.exe cmTC_b2765 && [1/2] Building C object CMakeFiles/cmTC_b2765.dir/src.c.obj
+[2/2] Linking C executable cmTC_b2765
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wpointer_sign_C__nostartfiles__nostdlib__isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include___isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/GitHub/NRF91/ncs/nrf/applications/asset_tracker/build_nrf9160_pca10090ns/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ProgramData/chocolatey/bin/ninja.exe cmTC_d5315 && [1/2] Building C object CMakeFiles/cmTC_d5315.dir/src.c.obj
+[2/2] Linking C executable cmTC_d5315
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wpointer_arith_C__nostartfiles__nostdlib__isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include___isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/GitHub/NRF91/ncs/nrf/applications/asset_tracker/build_nrf9160_pca10090ns/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ProgramData/chocolatey/bin/ninja.exe cmTC_b815b && [1/2] Building C object CMakeFiles/cmTC_b815b.dir/src.c.obj
+[2/2] Linking C executable cmTC_b815b
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wunused_but_set_variable_C__nostartfiles__nostdlib__isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include___isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/GitHub/NRF91/ncs/nrf/applications/asset_tracker/build_nrf9160_pca10090ns/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ProgramData/chocolatey/bin/ninja.exe cmTC_1b8ae && [1/2] Building C object CMakeFiles/cmTC_1b8ae.dir/src.c.obj
+[2/2] Linking C executable cmTC_1b8ae
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Werror_implicit_int_C__nostartfiles__nostdlib__isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include___isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/GitHub/NRF91/ncs/nrf/applications/asset_tracker/build_nrf9160_pca10090ns/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ProgramData/chocolatey/bin/ninja.exe cmTC_56fd8 && [1/2] Building C object CMakeFiles/cmTC_56fd8.dir/src.c.obj
+[2/2] Linking C executable cmTC_56fd8
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fno_asynchronous_unwind_tables_C__nostartfiles__nostdlib__isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include___isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/GitHub/NRF91/ncs/nrf/applications/asset_tracker/build_nrf9160_pca10090ns/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ProgramData/chocolatey/bin/ninja.exe cmTC_d40c8 && [1/2] Building C object CMakeFiles/cmTC_d40c8.dir/src.c.obj
+[2/2] Linking C executable cmTC_d40c8
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fno_pie_C__nostartfiles__nostdlib__isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include___isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/GitHub/NRF91/ncs/nrf/applications/asset_tracker/build_nrf9160_pca10090ns/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ProgramData/chocolatey/bin/ninja.exe cmTC_4c9d5 && [1/2] Building C object CMakeFiles/cmTC_4c9d5.dir/src.c.obj
+[2/2] Linking C executable cmTC_4c9d5
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fno_pic_C__nostartfiles__nostdlib__isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include___isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/GitHub/NRF91/ncs/nrf/applications/asset_tracker/build_nrf9160_pca10090ns/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ProgramData/chocolatey/bin/ninja.exe cmTC_877c2 && [1/2] Building C object CMakeFiles/cmTC_877c2.dir/src.c.obj
+[2/2] Linking C executable cmTC_877c2
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fno_strict_overflow_C__nostartfiles__nostdlib__isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include___isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/GitHub/NRF91/ncs/nrf/applications/asset_tracker/build_nrf9160_pca10090ns/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ProgramData/chocolatey/bin/ninja.exe cmTC_de825 && [1/2] Building C object CMakeFiles/cmTC_de825.dir/src.c.obj
+[2/2] Linking C executable cmTC_de825
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fno_reorder_functions_C__nostartfiles__nostdlib__isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include___isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/GitHub/NRF91/ncs/nrf/applications/asset_tracker/build_nrf9160_pca10090ns/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ProgramData/chocolatey/bin/ninja.exe cmTC_a5ba8 && [1/2] Building C object CMakeFiles/cmTC_a5ba8.dir/src.c.obj
+[2/2] Linking C executable cmTC_a5ba8
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fno_defer_pop_C__nostartfiles__nostdlib__isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include___isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/GitHub/NRF91/ncs/nrf/applications/asset_tracker/build_nrf9160_pca10090ns/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ProgramData/chocolatey/bin/ninja.exe cmTC_fe27d && [1/2] Building C object CMakeFiles/cmTC_fe27d.dir/src.c.obj
+[2/2] Linking C executable cmTC_fe27d
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fmacro_prefix_map_C__GitHub_NRF91_ncs_nrf_applications_asset_tracker_CMAKE_SOURCE_DIR_C__nostartfiles__nostdlib__isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include___isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/GitHub/NRF91/ncs/nrf/applications/asset_tracker/build_nrf9160_pca10090ns/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ProgramData/chocolatey/bin/ninja.exe cmTC_493e7 && [1/2] Building C object CMakeFiles/cmTC_493e7.dir/src.c.obj
+[2/2] Linking C executable cmTC_493e7
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fmacro_prefix_map_C__GitHub_NRF91_ncs_zephyr_ZEPHYR_BASE_C__nostartfiles__nostdlib__isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include___isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/GitHub/NRF91/ncs/nrf/applications/asset_tracker/build_nrf9160_pca10090ns/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ProgramData/chocolatey/bin/ninja.exe cmTC_ba79f && [1/2] Building C object CMakeFiles/cmTC_ba79f.dir/src.c.obj
+[2/2] Linking C executable cmTC_ba79f
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_ffunction_sections_C__nostartfiles__nostdlib__isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include___isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/GitHub/NRF91/ncs/nrf/applications/asset_tracker/build_nrf9160_pca10090ns/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ProgramData/chocolatey/bin/ninja.exe cmTC_5d636 && [1/2] Building C object CMakeFiles/cmTC_5d636.dir/src.c.obj
+[2/2] Linking C executable cmTC_5d636
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fdata_sections_C__nostartfiles__nostdlib__isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include___isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/GitHub/NRF91/ncs/nrf/applications/asset_tracker/build_nrf9160_pca10090ns/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ProgramData/chocolatey/bin/ninja.exe cmTC_25404 && [1/2] Building C object CMakeFiles/cmTC_25404.dir/src.c.obj
+[2/2] Linking C executable cmTC_25404
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include___isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__mabi_aapcs succeeded with the following output:
+Change Dir: C:/GitHub/NRF91/ncs/nrf/applications/asset_tracker/build_nrf9160_pca10090ns/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ProgramData/chocolatey/bin/ninja.exe cmTC_af087 && [1/2] Building C object CMakeFiles/cmTC_af087.dir/src.c.obj
+[2/2] Linking C executable cmTC_af087
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include___isystem__c__program_files__x86__gnu_tools_arm_embedded_8_2019_q3_update_bin____lib_gcc_arm_none_eabi_8_3_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__march_armv8_m_main_dsp succeeded with the following output:
+Change Dir: C:/GitHub/NRF91/ncs/nrf/applications/asset_tracker/build_nrf9160_pca10090ns/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ProgramData/chocolatey/bin/ninja.exe cmTC_8853b && [1/2] Building C object CMakeFiles/cmTC_8853b.dir/src.c.obj
+[2/2] Linking C executable cmTC_8853b
+
+
+Source file was:
+int main(void) { return 0; }

@@ -1,0 +1,13 @@
+# Target labels
+ spm_subimage
+# Source files and their labels
+C:/GitHub/NRF91/ncs/nrf/applications/asset_tracker/build_nrf9160_pca10090ns/modules/nrf/samples/CMakeFiles/spm_subimage
+C:/GitHub/NRF91/ncs/nrf/applications/asset_tracker/build_nrf9160_pca10090ns/modules/nrf/samples/CMakeFiles/spm_subimage.rule
+C:/GitHub/NRF91/ncs/nrf/applications/asset_tracker/build_nrf9160_pca10090ns/modules/nrf/samples/CMakeFiles/spm_subimage-complete.rule
+C:/GitHub/NRF91/ncs/nrf/applications/asset_tracker/build_nrf9160_pca10090ns/modules/nrf/samples/spm_subimage-prefix/src/spm_subimage-stamp/spm_subimage-install.rule
+C:/GitHub/NRF91/ncs/nrf/applications/asset_tracker/build_nrf9160_pca10090ns/modules/nrf/samples/spm_subimage-prefix/src/spm_subimage-stamp/spm_subimage-mkdir.rule
+C:/GitHub/NRF91/ncs/nrf/applications/asset_tracker/build_nrf9160_pca10090ns/modules/nrf/samples/spm_subimage-prefix/src/spm_subimage-stamp/spm_subimage-download.rule
+C:/GitHub/NRF91/ncs/nrf/applications/asset_tracker/build_nrf9160_pca10090ns/modules/nrf/samples/spm_subimage-prefix/src/spm_subimage-stamp/spm_subimage-update.rule
+C:/GitHub/NRF91/ncs/nrf/applications/asset_tracker/build_nrf9160_pca10090ns/modules/nrf/samples/spm_subimage-prefix/src/spm_subimage-stamp/spm_subimage-patch.rule
+C:/GitHub/NRF91/ncs/nrf/applications/asset_tracker/build_nrf9160_pca10090ns/modules/nrf/samples/spm_subimage-prefix/src/spm_subimage-stamp/spm_subimage-configure.rule
+C:/GitHub/NRF91/ncs/nrf/applications/asset_tracker/build_nrf9160_pca10090ns/modules/nrf/samples/spm_subimage-prefix/src/spm_subimage-stamp/spm_subimage-build.rule
